@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Claude Code internal directories
+.claude/
+
+# Original photo (already embedded as base64 in index.html)
+c1ac20897543e03124e40d35a5bb17c2.jpg
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
